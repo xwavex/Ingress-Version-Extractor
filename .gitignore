@@ -4,3 +4,6 @@
 .project
 .settings/
 bin/
+
+#ignore test apks
+.apk
