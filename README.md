@@ -25,8 +25,7 @@ What you need to get first:
 What you have to do next:
 
 1. First you have to place the `apktool.jar` into the `res/`-folder, if it isn't already in there.
-2. The only thing that comes next, is to launch the application and to set two parameters.
-... `java IVEMain <apkFilePath> <releaseDate>`
+2. The only thing that comes next, is to launch the application and to set two parameters.<br />`java IVEMain <apkFilePath> <releaseDate>`
 
 Short example:
 
