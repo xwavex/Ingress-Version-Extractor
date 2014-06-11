@@ -29,7 +29,7 @@ What you have to do next:
 
 Short example:
 
-`java IVEMain res/apktool.jar 2013-08`
+`java IVEMain res/ingress_1.33.jar 2013-08`
 
 => `2013-08-07T00:06:39Z a52083df5202 opt`
 
