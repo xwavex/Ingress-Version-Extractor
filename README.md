@@ -41,7 +41,7 @@ Now that you've successfully obtained the necessary client-id, you can use it as
 Further Information
 ---------------------------
 
-* Author: Dennis L. Wigand
+* Author: Dennis Leroy Wigand
 * Version: 1.0.0
 
 Libraries used:
